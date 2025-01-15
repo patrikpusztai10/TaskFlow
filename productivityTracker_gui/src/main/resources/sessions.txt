@@ -1,0 +1,8 @@
+13-11-2024,lili,Start IP ,00:00:48
+13-11-2024,patrik,Finish P3 ,00:03:48
+13-11-2024,patrik,Finish P3 ,00:02:12
+30-12-2024,patrik,Speech,00:00:06
+30-12-2024,patrik,Algorithm,00:00:14
+30-12-2024,patrik,Algorithm,00:00:10
+30-12-2024,patrik,Speech,00:00:03
+30-12-2024,patrik,Algorithm,00:00:08
