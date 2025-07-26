@@ -1,4 +1,4 @@
-# Productivity-Tracker
+# TaskFlow
 
 This app is a task manager which can be used by three types of users: admins, employees and teamleaders.   
 For the GUI I used JavaFX and for the data base MySQL was used through a JDBC driver.  
